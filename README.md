@@ -1,7 +1,7 @@
 
 # Linked Lists
 
-A brief description of what this project does and who it's for
+
 
 
 ## Singly Linked List
